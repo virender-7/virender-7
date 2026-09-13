@@ -33,7 +33,7 @@ With 14+ years of experience driving automation, operational excellence, and com
 
 ## 📚 Learning & Growth
 - Expanding expertise in **Django** for web development
-- Training in **DevOps Hero to Zero – Udaan 11** with TrainWithShubham
+- Trained in **DevOps Hero to Zero – Udaan 11** with TrainWithShubham
 - Continuous improvement through hands-on projects and certifications
 
 ---
